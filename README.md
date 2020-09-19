@@ -1,5 +1,5 @@
 # OutFox-PL
-Polish (PL) Translation for StepMania 5.3 "Outfox" / Polskie (PL) tłumaczenie do StepManii 5.3 "Outfox"
+Polish (PL) Translation for Project Outfox / Polskie (PL) tłumaczenie do Project Outfox
 
 ## Community / Wkład społeczności
 
@@ -15,4 +15,4 @@ Na tę chwilę sam pracuję nad tłumaczeniem, ale jeżeli chcesz pomóc, lub zn
 ## Credits / Twórcy
 
 _fallback theme: https://github.com/stepmania/stepmania/commits/5_1-new/Themes/_fallback/Languages/pl.ini 
-Soundwaves and updates of _fallback by Moneko
+Soundwaves translation and updates of _fallback by Moneko
