@@ -9,7 +9,7 @@ Currently I update this translation by myself, but if you want to help, or spot 
 
 ### PL
 
-Na tę chwilę sam pracuję nad tłumaczeniem, ale jeżeli chcesz pomóc, lub znalazłeś jakieś błędy, można się ze mną skontaktować na kanale "#polski" na OutFoxowym Discordzie. Link do dołączenia znajduje się na stronie https://projectmoon.dance/
+Na tę chwilę sam pracuję nad tłumaczeniem, ale jeżeli chcesz pomóc lub znalazłeś jakieś błędy, możesz się ze mną skontaktować na kanale #polski na OutFoxowym Discordzie. Link do dołączenia znajdziesz na stronie https://projectmoon.dance/
 
 
 ## Credits / Twórcy
